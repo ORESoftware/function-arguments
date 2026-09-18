@@ -13,8 +13,8 @@ lib-cov
 coverage
 nbproject
 cache
-temp
-tmp
+temp/
+tmp/
 function-arguments
 
 # Packages #
@@ -70,3 +70,6 @@ pids
 
 # Optional REPL history
 .node_repl_history
+
+# machine-local symlink to ORESoftware/my-ai AGENTS.md; never committed
+.ores/
